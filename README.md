@@ -73,7 +73,7 @@ pip install -r requirements.txt}
    streamlit run app.py
 ```
 
-DocumentationFull system documentation is available in the documentation folder and can also be viewed directly inside the dashboard under the Documentation tab.
+Full system documentation is available in the documentation folder and can also be viewed directly inside the dashboard under the Documentation tab.
 
 Technology Stack
 

@@ -70,7 +70,7 @@ Zomato_Delivery_Intelligence/
 pip install -r requirements.txt}
 3. Place your cleaned dataset in the data/ folder as zomato_cleaned.csv
 4. Run the application: 
-   Bashstreamlit run app.py
+   streamlit run app.py
 ```
 
 DocumentationFull system documentation is available in the documentation folder and can also be viewed directly inside the dashboard under the Documentation tab.

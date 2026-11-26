@@ -25,6 +25,10 @@ The dashboard allows users to explore delivery performance, identify what causes
 - Ability to download filtered data and summary reports
 - Built-in system documentation
 
+
+### 📁 Project Structure
+
+```text
 Zomato_Delivery_Intelligence/
 │
 ├── app.py
@@ -38,6 +42,7 @@ Zomato_Delivery_Intelligence/
 │
 └── documentation/
     └── System_Documentation.md
+```
 
 
 ### Dataset
